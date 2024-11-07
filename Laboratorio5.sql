@@ -11,3 +11,6 @@ WHERE ID_Prestamo = 1;
 USE Biblioteca;
 DELETE FROM Libros
 WHERE Titulo = 'EL libro de 1984';
+
+/* Comandos de Consulta */
+SELECT * FROM `libros`
