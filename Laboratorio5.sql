@@ -14,3 +14,5 @@ WHERE Titulo = 'EL libro de 1984';
 
 /* Comandos de Consulta */
 SELECT * FROM `libros`
+
+SELECT * FROM `autores`
