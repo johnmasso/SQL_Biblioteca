@@ -16,3 +16,8 @@ WHERE Titulo = 'EL libro de 1984';
 SELECT * FROM `libros`
 
 SELECT * FROM `autores`
+
+
+USE Biblioteca; 
+SELECT * FROM Libros 
+WHERE ID_Autor = 1;
